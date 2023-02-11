@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hostel microservice/hostel-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hostel microservice/hostel-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hostel microservice/room-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hostel microservice/room-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hostel microservice/student-service/student-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hostel microservice/student-service/student-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment_booking/booking-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment_booking/booking-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment_booking/payments-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment_booking/payments-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hostel microservice.iml" filepath="$PROJECT_DIR$/.idea/hostel microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hostel-service/hostel-service/hostel-service.iml" filepath="$PROJECT_DIR$/hostel-service/hostel-service/hostel-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/room-service/room-service.iml" filepath="$PROJECT_DIR$/room-service/room-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-service/student-service/student-service.iml" filepath="$PROJECT_DIR$/student-service/student-service/student-service.iml" />
+    </modules>
+  </component>
+</project>

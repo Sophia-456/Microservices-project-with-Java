@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/payment_booking/booking-service/booking-service.iml" filepath="$PROJECT_DIR$/payment_booking/booking-service/booking-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hostel microservice/hostel-service/hostel-service.iml" filepath="$PROJECT_DIR$/hostel microservice/hostel-service/hostel-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservices-yuzo.iml" filepath="$PROJECT_DIR$/.idea/microservices-yuzo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment_booking/payments-service/payments-service.iml" filepath="$PROJECT_DIR$/payment_booking/payments-service/payments-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hostel microservice/room-service/room-service.iml" filepath="$PROJECT_DIR$/hostel microservice/room-service/room-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hostel microservice/student-service/student-service/student-service.iml" filepath="$PROJECT_DIR$/hostel microservice/student-service/student-service/student-service.iml" />
+    </modules>
+  </component>
+</project>
